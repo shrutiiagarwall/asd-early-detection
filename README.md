@@ -364,15 +364,15 @@ paper's primary quantitative contribution.
 
 ## Citation
 
-> *To be updated upon publication.*
+> *If you use this work, please cite the repository until the paper is formally published.*
 
 ```bibtex
-@article{asd_detection_2025,
+@article{asd_detection_2026,
   title   = {Early ASD Detection via Multi-Stage AQ-10 Machine Learning Pipeline
              with Explainability and Production Monitoring},
   author  = {Shruti Agarwal},
-  journal = {[Journal Name]},
-  year    = {2025},
+  journal = {Under Review},
+  year    = {2026},
   note    = {Under review},
   url     = {https://github.com/shrutiiagarwall/asd-early-detection}
 }
